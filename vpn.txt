@@ -1,0 +1,15 @@
+VPN:
+
+user: srinivasulu.s
+pwd: fATlMLj4+1!Od
+
+
+
+Remote Desktop:
+ 
+172.21.224.36
+
+user: srinivasulu.s
+pwd:  system password
+
+
